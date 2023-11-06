@@ -3,4 +3,4 @@ The Fitness Tracker App is a web application designed to help users track their 
 
 **Backend Code (repl):** https://replit.com/@KHR/fitness-tracker-backend
 <br/>
-**API Documentation :**
+**API Documentation (postman) :** https://documenter.getpostman.com/view/13986603/2s9YXe8jVA
